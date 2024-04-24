@@ -27,6 +27,8 @@ class WangEditorFormulaCard extends HTMLElement {
 
     const span = document.createElement('span')
     span.style.display = 'inline-block'
+    span.style.minWidth = '150px'
+    console.log(span.style, 'katexStyleContent')
     shadow.appendChild(span)
     this.span = span
   }
