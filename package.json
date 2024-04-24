@@ -1,23 +1,19 @@
 {
-  "name": "@wangeditor/plugin-coco",
+  "name": "@ycoco/plugin-coco",
   "version": "1.0.12",
-  "description": "wangEditor formula 公式",
+  "description": "cococoocococococoococococococo",
   "access": "public",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-team/wangEditor-plugin-formula.git"
+    "url": "git+https://github.com/TBIGTU/coco.git"
   },
   "keywords": [
-    "公式",
-    "formula",
-    "wangeditor"
+    "coco"
   ],
   "author": "github.com/wangfupeng1988",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wangeditor-team/wangEditor-plugin-formula/issues"
-  },
-  "homepage": "https://github.com/wangeditor-team/wangEditor-plugin-formula#readme",
+
+
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/src/index.d.ts",
